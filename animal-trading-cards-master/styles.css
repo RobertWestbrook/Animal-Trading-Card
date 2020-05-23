@@ -1,0 +1,30 @@
+span {font-weight: bold;}
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;}
+h3 {font: bold small-caps 25px serif;
+    text-decoration: underline;
+    text-align: left;
+    padding:5px;
+    margin: 0 0 4px 0;
+    border: solid black 2px;
+    background-color: rgba(236, 234, 234, 0.685);}
+.body {
+    width: 300px;
+    padding: 10px;
+    font-family: serif monospace;
+    border: solid black 2px;
+    border-radius: 10px;
+    background: url(CardBG.png) no-repeat center center;}
+.container {
+    border: solid black 2px;
+    padding: 10px;
+    background-color: rgba(236, 234, 234, 0.685);}
+.fact {font-style: italic;}   
+.pic {width:296px;
+      border: solid 2px black}
+
+
+
+
